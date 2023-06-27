@@ -10,7 +10,9 @@ In the "Search for a City" input, type in your desired destination. You will be 
 
 ## Images
 
+<img width="1579" alt="Screenshot 2023-06-27 at 11 46 43 AM" src="https://github.com/iggy-ziggy/weather-dashboard/assets/128410000/7cc2289d-53c8-4553-937b-15d75e04a0ec">
 
+https://iggy-ziggy.github.io/weather-dashboard/
 
 ## License
 
